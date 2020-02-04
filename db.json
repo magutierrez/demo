@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "competitors": [
+    {
+      "id": 1,
+      "bathrooms": 1,
+      "rank": 0.5,
+      "rooms": 3,
+      "area": 123,
+      "property_type": 4,
+      "price": 560386,
+      "images": [
+        "https://storage.googleapis.com/uda-images/datalake-images/portals/spain/idealista/87796249/32_f4_67_731140497.jpg",
+        "https://storage.googleapis.com/uda-images/datalake-images/portals/spain/idealista/87796249/5e_43_b7_731140465.jpg",
+        "https://storage.googleapis.com/uda-images/datalake-images/portals/spain/idealista/87796249/c2_b6_ce_731140498.jpg",
+        "https://storage.googleapis.com/uda-images/datalake-images/portals/spain/idealista/87796249/e8_cc_16_731140496.jpg"
+      ],
+      "location": {
+        "address": "Calle Almagro, 5, 28010 Madrid",
+        "latitude": 40.4284471,
+        "longitude": -3.6949448
+      }
+    }
+  ]
 }
