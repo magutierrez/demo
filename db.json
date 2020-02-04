@@ -24,7 +24,7 @@
       "bathrooms": 2,
       "rooms": 3,
       "area": 118,
-      "property_type": 4,
+      "property_type": 2,
       "price": 469000,
       "location": {
         "lat": 40.4278006,
@@ -58,7 +58,7 @@
       "bathrooms": 3,
       "rooms": 3,
       "area": 130,
-      "property_type": 4,
+      "property_type": 7,
       "price": 830000,
       "location": {
         "lat": 40.4285537,
@@ -75,7 +75,7 @@
       "bathrooms": 1,
       "rooms": 3,
       "area": 123,
-      "property_type": 4,
+      "property_type": 8,
       "price": 575000,
       "location": {
         "lat": 40.4285838,
@@ -92,7 +92,7 @@
       "bathrooms": 2,
       "rooms": 3,
       "area": 118,
-      "property_type": 4,
+      "property_type": 9,
       "price": 470000,
       "location": {
         "lat": 40.4272006,
@@ -109,7 +109,7 @@
       "bathrooms": 2,
       "rooms": 3,
       "area": 117,
-      "property_type": 4,
+      "property_type": 3,
       "price": 449000,
       "location": {
         "lat": 40.4272006,
@@ -126,7 +126,7 @@
       "bathrooms": 2,
       "rooms": 3,
       "area": 130,
-      "property_type": 4,
+      "property_type": 6,
       "price": 449000,
       "location": {
         "lat": 40.4272006,
@@ -143,7 +143,7 @@
       "bathrooms": 2,
       "rooms": 3,
       "area": 118,
-      "property_type": 4,
+      "property_type": 5,
       "price": 449000,
       "location": {
         "lat": 40.4272006,
@@ -160,7 +160,7 @@
       "bathrooms": 2,
       "rooms": 3,
       "area": 118,
-      "property_type": 4,
+      "property_type": 1,
       "price": 469000,
       "location": {
         "lat": 40.4272006,
@@ -177,7 +177,7 @@
       "bathrooms": 2,
       "rooms": 3,
       "area": 118,
-      "property_type": 4,
+      "property_type": 1,
       "price": 470000,
       "location": {
         "lat": 40.4272006,
@@ -194,7 +194,7 @@
       "bathrooms": 1,
       "rooms": 3,
       "area": 118,
-      "property_type": 4,
+      "property_type": 7,
       "price": 469000,
       "location": {
         "lat": 40.4272006,
@@ -211,7 +211,7 @@
       "bathrooms": 1,
       "rooms": 3,
       "area": 134,
-      "property_type": 4,
+      "property_type": 8,
       "price": 470000,
       "location": {
         "lat": 40.4272006,
@@ -228,7 +228,7 @@
       "bathrooms": 1,
       "rooms": 3,
       "area": 117,
-      "property_type": 4,
+      "property_type": 3,
       "price": 449000,
       "location": {
         "lat": 40.4279006,
@@ -245,7 +245,7 @@
       "bathrooms": 1,
       "rooms": 3,
       "area": 110,
-      "property_type": 4,
+      "property_type": 6,
       "price": 405000,
       "location": {
         "lat": 40.4273658,
