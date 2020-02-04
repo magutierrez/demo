@@ -256,40 +256,6 @@
         "https://storage.googleapis.com/uda-images/datalake-images/portals/spain/idealista/87796249/32_f4_67_731140497.jpg",
         "https://storage.googleapis.com/uda-images/datalake-images/portals/spain/idealista/87796249/5e_43_b7_731140465.jpg"
       ]
-    },
-    {
-      "id": 16,
-      "bathrooms": 2,
-      "rooms": 2,
-      "area": 111,
-      "property_type": 4,
-      "price": 790000,
-      "location": {
-        "lat": 40.4293,
-        "lon": -3.6961,
-        "address": "Calle José Marañón, 311"
-      },
-      "images": [
-        "https://storage.googleapis.com/uda-images/datalake-images/portals/spain/idealista/87796249/32_f4_67_731140497.jpg",
-        "https://storage.googleapis.com/uda-images/datalake-images/portals/spain/idealista/87796249/5e_43_b7_731140465.jpg"
-      ]
-    },
-    {
-      "id": 17,
-      "bathrooms": 1,
-      "rooms": 3,
-      "area": 130,
-      "property_type": 4,
-      "price": 308500,
-      "location": {
-        "lat": 40.4294,
-        "lon": -3.6949,
-        "address": "Calle José Marañón, 51"
-      },
-      "images": [
-        "https://storage.googleapis.com/uda-images/datalake-images/portals/spain/idealista/87796249/32_f4_67_731140497.jpg",
-        "https://storage.googleapis.com/uda-images/datalake-images/portals/spain/idealista/87796249/5e_43_b7_731140465.jpg"
-      ]
     }
   ]
 }
