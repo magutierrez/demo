@@ -25,7 +25,7 @@
       "property_type": 2,
       "price": 469000,
       "location": {
-        "lat": 40.4278006,
+        "latitude": 40.4278006,
         "lon": -3.6953426,
         "address": "Calle José Marañón, 341"
       },
